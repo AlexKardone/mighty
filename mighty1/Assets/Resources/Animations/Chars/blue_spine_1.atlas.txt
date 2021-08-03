@@ -1,0 +1,181 @@
+
+blue_spine_1.png
+size: 512,288
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+angry
+  rotate: true
+  xy: 290, 206
+  size: 80, 67
+  orig: 80, 67
+  offset: 0, 0
+  index: -1
+blue/arm1
+  rotate: false
+  xy: 339, 146
+  size: 24, 58
+  orig: 24, 58
+  offset: 0, 0
+  index: -1
+blue/arm2
+  rotate: false
+  xy: 467, 231
+  size: 43, 55
+  orig: 43, 55
+  offset: 0, 0
+  index: -1
+blue/body
+  rotate: false
+  xy: 365, 128
+  size: 72, 158
+  orig: 72, 158
+  offset: 0, 0
+  index: -1
+blue/head-empty
+  rotate: false
+  xy: 2, 145
+  size: 126, 141
+  orig: 126, 141
+  offset: 0, 0
+  index: -1
+blue/leg1
+  rotate: true
+  xy: 209, 2
+  size: 38, 77
+  orig: 38, 77
+  offset: 0, 0
+  index: -1
+blue/leg2
+  rotate: true
+  xy: 365, 11
+  size: 36, 77
+  orig: 36, 77
+  offset: 0, 0
+  index: -1
+blue/shoulder1
+  rotate: false
+  xy: 474, 139
+  size: 36, 55
+  orig: 36, 55
+  offset: 0, 0
+  index: -1
+blue/shoulder2
+  rotate: false
+  xy: 439, 134
+  size: 33, 60
+  orig: 33, 60
+  offset: 0, 0
+  index: -1
+blue/thigh1
+  rotate: false
+  xy: 431, 49
+  size: 34, 77
+  orig: 34, 77
+  offset: 0, 0
+  index: -1
+blue/thigh2
+  rotate: false
+  xy: 232, 143
+  size: 37, 75
+  orig: 37, 75
+  offset: 0, 0
+  index: -1
+happy
+  rotate: false
+  xy: 292, 68
+  size: 63, 73
+  orig: 63, 73
+  offset: 0, 0
+  index: -1
+red/arm1
+  rotate: true
+  xy: 232, 117
+  size: 24, 58
+  orig: 24, 58
+  offset: 0, 0
+  index: -1
+red/arm2
+  rotate: true
+  xy: 444, 4
+  size: 43, 56
+  orig: 43, 56
+  offset: 0, 0
+  index: -1
+red/body
+  rotate: true
+  xy: 130, 42
+  size: 72, 158
+  orig: 72, 158
+  offset: 0, 0
+  index: -1
+red/head-empty
+  rotate: false
+  xy: 2, 3
+  size: 126, 140
+  orig: 126, 140
+  offset: 0, 0
+  index: -1
+red/leg1
+  rotate: true
+  xy: 130, 2
+  size: 38, 77
+  orig: 38, 77
+  offset: 0, 0
+  index: -1
+red/leg2
+  rotate: false
+  xy: 357, 49
+  size: 36, 77
+  orig: 36, 77
+  offset: 0, 0
+  index: -1
+red/shoulder1
+  rotate: false
+  xy: 467, 77
+  size: 36, 55
+  orig: 36, 55
+  offset: 0, 0
+  index: -1
+red/shoulder2
+  rotate: true
+  xy: 439, 196
+  size: 33, 60
+  orig: 33, 60
+  offset: 0, 0
+  index: -1
+red/thigh1
+  rotate: false
+  xy: 395, 49
+  size: 34, 77
+  orig: 34, 77
+  offset: 0, 0
+  index: -1
+red/thigh2
+  rotate: true
+  xy: 288, 3
+  size: 37, 75
+  orig: 37, 75
+  offset: 0, 0
+  index: -1
+scared
+  rotate: false
+  xy: 271, 143
+  size: 66, 61
+  orig: 66, 61
+  offset: 0, 0
+  index: -1
+sword
+  rotate: true
+  xy: 130, 116
+  size: 170, 100
+  orig: 170, 100
+  offset: 0, 0
+  index: -1
+usual
+  rotate: true
+  xy: 232, 220
+  size: 66, 48
+  orig: 88, 128
+  offset: 22, 0
+  index: -1

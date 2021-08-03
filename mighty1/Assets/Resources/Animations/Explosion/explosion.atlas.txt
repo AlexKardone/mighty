@@ -1,0 +1,62 @@
+
+explosion.png
+size: 1539,867
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Energy 016 Impact Explosion Radial_00000
+  rotate: false
+  xy: 1349, 698
+  size: 182, 167
+  orig: 500, 500
+  offset: 160, 168
+  index: -1
+Energy 016 Impact Explosion Radial_00002
+  rotate: true
+  xy: 1223, 95
+  size: 333, 314
+  orig: 500, 500
+  offset: 74, 91
+  index: -1
+Energy 016 Impact Explosion Radial_00004
+  rotate: true
+  xy: 852, 27
+  size: 388, 369
+  orig: 500, 500
+  offset: 51, 69
+  index: -1
+Energy 016 Impact Explosion Radial_00006
+  rotate: false
+  xy: 919, 430
+  size: 428, 435
+  orig: 500, 500
+  offset: 39, 29
+  index: -1
+Energy 016 Impact Explosion Radial_00008
+  rotate: true
+  xy: 459, 417
+  size: 448, 458
+  orig: 500, 500
+  offset: 31, 19
+  index: -1
+Energy 016 Impact Explosion Radial_00010
+  rotate: true
+  xy: 2, 409
+  size: 456, 455
+  orig: 500, 500
+  offset: 29, 16
+  index: -1
+Energy 016 Impact Explosion Radial_00012
+  rotate: false
+  xy: 2, 2
+  size: 431, 405
+  orig: 500, 500
+  offset: 35, 59
+  index: -1
+Energy 016 Impact Explosion Radial_00014
+  rotate: false
+  xy: 435, 24
+  size: 415, 383
+  orig: 500, 500
+  offset: 44, 74
+  index: -1
